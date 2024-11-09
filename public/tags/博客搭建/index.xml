@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客搭建 on Priska&#39;s Blog</title>
+    <link>http://localhost:9736/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+    <description>Recent content in 博客搭建 on Priska&#39;s Blog</description>
+    <image>
+      <title>Priska&#39;s Blog</title>
+      <url>https://i.postimg.cc/7hwBy7VS/calcr.png</url>
+      <link>https://i.postimg.cc/7hwBy7VS/calcr.png</link>
+    </image>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>zh</language>
+    <copyright>©2024 Priska&amp;rsquo;s Blog</copyright>
+    <lastBuildDate>Sun, 04 Aug 2024 03:25:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:9736/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; PaperMod &#43; Github Pages 搭建一个完善的个人博客(以 Windows11 为例)</title>
+      <link>http://localhost:9736/posts/http-1.0-1.1-2.0-3.0-%E9%95%BF%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sun, 04 Aug 2024 03:25:53 +0800</pubDate>
+      <guid>http://localhost:9736/posts/http-1.0-1.1-2.0-3.0-%E9%95%BF%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;h2 id=&#34;什么是长连接为什么需要长连接&#34;&gt;什么是长连接，为什么需要长连接？&lt;/h2&gt;
+&lt;p&gt;HTTP连接是无状态的，也就是说一次请求和一次响应后TCP连接就断开了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTTP长连接就是将这次TCP连接保留下来，请求和响应之后TCP连接仍不断开，后续的请求与响应仍然走这个连接。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
